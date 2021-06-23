@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## Thanks
+https://www.softfluent.fr/blog/utiliser-redux-avec-react-js/
+
+https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
